@@ -780,3 +780,19 @@ html {
   background-color: #e3e3e3e3;
   vertical-align: baseline;
 }
+
+/* Light mode */
+@media (prefers-color-scheme: light) {
+  body {
+    color: black;
+    background-color: white;
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  body {
+    color: white;
+    background-color: black;
+  }
+}
