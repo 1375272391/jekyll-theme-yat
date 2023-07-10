@@ -158,7 +158,11 @@ code {
 pre {
   overflow-x: auto;
   position: relative;
-  background-color: #f0f0f0;
+
+  /**
+ * background-color: #f0f0f0;
+ */
+  background-color: #0d1117;
 
   > code {
     display: inline-block;
