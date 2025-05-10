@@ -246,7 +246,7 @@ yat:
 # Build settings
 # highlighter: none
 markdown: kramdown
-kramdown:
+kmarkdown:
   input: GFM
 
 plugins:
