@@ -193,6 +193,8 @@ yat:
 #   image_width: 38.2%      # Image default width
 #   image_height: 160px     # Image default height
 #   text_size: 350          # Words default size
+excerpt:
+   default_image: /assets/images/xm137.jpg
 
 # Pagination setting
 # paginate: 5
